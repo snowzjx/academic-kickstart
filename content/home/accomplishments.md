@@ -19,8 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "ACM SIGCOMM"
+  title = "SIGCOMM 17 Travel Grants"
+  date_start = "2017-08-20"
+
+[[item]]
   organization = "Hong Kong University of Science and Technology"
   title = "Postgraduate Fellowship"
   date_start = "2016-09-01"
+
+[[item]]
+  title = "National Scholarship"
+  date_start = "2014-12-01"
+
+[[item]]
+  organization = "Google"
+  title = "Google Excellent Student Scholarship"
+  date_start = "2012-05-01"  
+
+[[item]]
+  title = "National Scholarship"
+  date_start = "2011-12-01"
 
 +++
