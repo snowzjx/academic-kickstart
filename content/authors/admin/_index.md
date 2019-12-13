@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Junxue ZHANG
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Hong Kong University of Science and Technology
+  url: "https://www.ust.hk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Center Networking
+- AI Systems
+- Privacy Preserving Computation
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD Student in Computer Science & Engineering
+    institution: Hong Kong University of Science and Technology
+    year: 2016
+  - course: MSc in Computer Science & Engineering
+    institution: Southeast Univeristy
+    year: 2013
+  - course: BSc in Software Engineering
+    institution: Southeast Univeristy
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:jzhangcs@ust.hk'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/snowzjx
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Junxue ZHANG is a PhD student of computer scinece at [SINGLab, Hong Kong Univeristy of Science and Technology](http://sing.cse.ust.hk). He is under supervision of [Prof. Kai CHEN](http://www.cse.ust.hk/~kaichen/). His reseach interests are data center networking, AI systems and privacy preserving computation. He is also the co-founder of [Clustar Technology Limited](https://www.clustar.ai).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before joining HKUST, he received his BSc and Msc in [Southeast Univeristy](https://www.seu.edu.cn/english/).
+
+Junxue has a broad range of intersts in his daily life. He is an amateur photographer mainly at landscape and sometimes portrait. He likes coffee, and is a fresh man in latte art. He also has a not very large collection of Lego.
