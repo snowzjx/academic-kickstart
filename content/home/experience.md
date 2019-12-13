@@ -18,27 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Co-founder"
+  company = "Clustar Technology Limited"
+  company_url = "https://www.clustar.ai"
+  location = "Hong Kong"
+  date_start = "2018-12-01"
   date_end = ""
   description = """
+  Clustar Technology Limited is a startup company founded in 2017. Clustar provides world-leading AI infrastructure for various customers, including [WeBank](https://www.webank.com/en/), [China Unicom](https://www.mychinaunicom.com), etc.. Clustar is in partnership with [NVIDIA](https://www.nvidia.com/en-us/), [Mellanox](https://www.mellanox.com), [Cisco](https://www.cisco.com), etc..
+
+  Clustar has received investment from [Sequaio](https://www.sequoiacap.com) and [Co-Stone](http://en.stonevc.com).
+  """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * R&D
+  * Operation
+  * Finance
   """
 
-[[experience]]
+<!-- [[experience]]
   title = "Professor"
   company = "University X"
   company_url = ""
   location = "California"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Taught electronic engineering and researched semiconductor physics.""" -->
 
 +++
