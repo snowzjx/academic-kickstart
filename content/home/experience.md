@@ -24,14 +24,13 @@ date_format = "Jan 2006"
   location = "Hong Kong"
   date_start = "2018-12-01"
   date_end = ""
-  description = """
-  Clustar Technology Limited is a startup company founded in 2017. Clustar provides world-leading AI infrastructure for various customers, including [WeBank](https://www.webank.com/en/), [China Unicom](https://www.mychinaunicom.com), etc.. Clustar is in partnership with [NVIDIA](https://www.nvidia.com/en-us/), [Mellanox](https://www.mellanox.com), [Cisco](https://www.cisco.com), etc..
+  description = """Clustar Technology Limited is a startup company founded in 2017. Clustar provides world-leading AI infrastructure for various customers, including [WeBank](https://www.webank.com/en/), [China Unicom](https://www.mychinaunicom.com), etc.. Clustar is in partnership with [NVIDIA](https://www.nvidia.com/en-us/), [Mellanox](https://www.mellanox.com), [Cisco](https://www.cisco.com), etc..
 
   Clustar has received investment from [Sequaio](https://www.sequoiacap.com) and [Co-Stone](http://en.stonevc.com).
-  
+
   Responsibilities include:
   
-  * R&D
+  * Research and Development
   * Operation
   * Finance
   """
