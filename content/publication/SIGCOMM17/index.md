@@ -28,7 +28,8 @@ publication_short: In *SIGCOMM 2017*
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- DCN
+- Load Balance
 featured: true
 
 links:

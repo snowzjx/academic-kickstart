@@ -26,7 +26,9 @@ publication_short: In *CoNEXT 2019*
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- DCN
+- ECN
+- P4
 featured: true
 
 links:
