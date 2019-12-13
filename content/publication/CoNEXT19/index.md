@@ -32,7 +32,7 @@ featured: true
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://dl.acm.org/authorize?N690741
+url_pdf: p233-zhang.pdf
 url_code: 'https://github.com/snowzjx/ns3-ecn-sharp'
 # url_dataset: '#'
 # url_poster: '#'
