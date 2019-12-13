@@ -1,10 +1,12 @@
 ---
-title: "Enabling ECN for Datacenter Networks with RTT Variations"
+title: "Resilient datacenter load balancing in the wilds"
 authors:
+- Hong ZHANG
 - admin
 - Wei BAI
 - Kai CHEN
-date: "2019-12-09T00:00:00Z"
+- Chowdhury Mosharaf
+date: "2017-08-20T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,8 +19,8 @@ date: "2019-12-09T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *CoNEXT 2019*
-publication_short: In *CoNEXT 2019*
+publication: In *SIGCOMM 2017*
+publication_short: In *SIGCOMM 2017*
 
 # abstract: 
 
@@ -32,12 +34,12 @@ featured: true
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://dl.acm.org/authorize?N690741
-url_code: 'https://github.com/snowzjx/ns3-ecn-sharp'
+url_pdf: http://www.cse.ust.hk/~kaichen/papers/hermes-sigcomm17.pdf
+url_code: 'https://github.com/snowzjx/ns3-load-balance'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-url_slides: ''
+url_slides: 'https://conferences.sigcomm.org/sigcomm/2017/files/program/ts-6-3-resilient-load-balancing.pptx'
 # url_source: '#'
 # url_video: '#'
 
