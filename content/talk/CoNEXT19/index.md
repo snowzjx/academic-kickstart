@@ -40,7 +40,7 @@ links:
 #   url: https://twitter.com/georgecushen
 # url_code: ""
 # url_pdf: ""
-url_slides: "static/slides/ecn_sharp.pptx"
+url_slides: "slides/ecn_sharp.pptx"
 # url_video: ""
 
 # Markdown Slides (optional).
