@@ -1,6 +1,6 @@
 ---
 title: Enabling ECN for Datacenter Networks with RTT Variations
-event: Academic Conference
+event: CoNEXT 19
 # event_url: https://example.org
 
 location: UCF FAIRWINDS Alumni Center 

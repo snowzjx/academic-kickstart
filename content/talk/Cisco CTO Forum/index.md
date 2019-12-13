@@ -1,6 +1,6 @@
 ---
 title: 'CLUSTAR: AI Training Platform Powered by High Performance Networking'
-event: Industry Conference
+event: Cisco CTO Forum
 # event_url: https://example.org
 
 location: Cisco Systems (HK) Ltd
