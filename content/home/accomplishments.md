@@ -29,6 +29,7 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
 
 [[item]]
+  organization = "Ministry of Education"
   title = "National Scholarship"
   date_start = "2014-12-01"
 
@@ -38,6 +39,7 @@ date_format = "Jan 2006"
   date_start = "2012-05-01"  
 
 [[item]]
+  organization = "Ministry of Education"
   title = "National Scholarship"
   date_start = "2011-12-01"
 
