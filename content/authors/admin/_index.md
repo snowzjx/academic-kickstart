@@ -60,6 +60,10 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
+- icon: instagram
+  icon_pack: fab
+  link: 'https://www.instagram.com/snowzjx/'
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
