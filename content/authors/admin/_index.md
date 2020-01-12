@@ -76,6 +76,6 @@ user_groups:
 
 Junxue ZHANG is a PhD student of computer scinece at [SINGLab, Hong Kong Univeristy of Science and Technology](http://sing.cse.ust.hk). He is under supervision of [Prof. Kai CHEN](http://www.cse.ust.hk/~kaichen/). His reseach interests are data center networking, AI systems and privacy preserving computation. He is also the co-founder of [Clustar Technology Co., Ltd](https://www.clustar.ai).
 
-Before joining HKUST, he received his BSc and Msc in [Southeast Univeristy](https://www.seu.edu.cn/english/).
+Before joining HKUST, he received his BSc and MSc in [Southeast Univeristy](https://www.seu.edu.cn/english/).
 
 Junxue has a broad range of intersts in his daily life. He is an amateur photographer mainly at landscape and sometimes portrait. He likes coffee, and is a fresh man in latte art. He also has a not very large collection of Lego. Junxue has a cat named [Silver](https://weibo.com/7357971079/profile?topnav=1&wvr=6).
