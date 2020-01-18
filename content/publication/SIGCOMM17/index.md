@@ -1,5 +1,5 @@
 ---
-title: "Resilient datacenter load balancing in the wilds"
+title: "Resilient Datacenter Load Balancing in the Wilds"
 authors:
 - Hong ZHANG
 - admin
