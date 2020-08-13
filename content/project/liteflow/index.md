@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Liteflow"
-summary: "LiteFlow is a framework to integrate a trained neural network into Linux kernel datapat..."
+summary: "LiteFlow is a framework to integrate a trained neural network into Linux kernel datapath..."
 authors: []
 tags: []
 categories: []
