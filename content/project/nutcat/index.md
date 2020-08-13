@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Nutcat"
-summary: "Nutcat is a Graph Processing Framework implemented in Scala. Open to see its potential to support GNN..."
+summary: "Nutcat is a graph processing framework in Scala. Open to see its potential to support GNN..."
 authors: []
 tags: []
 categories: []
