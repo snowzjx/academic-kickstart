@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-Junxue ZHANG is a PhD student of computer scinece at [iSINGLab, Hong Kong Univeristy of Science and Technology](http://sing.cse.ust.hk). He is under supervision of [Prof. Kai CHEN](http://www.cse.ust.hk/~kaichen/). His reseach interests are data center networking, AI systems and privacy preserving computation. He is also the co-founder of [Clustar Technology Co., Ltd](https://www.clustar.ai).
+Junxue ZHANG is a PhD student of computer scinece at [iSINGLab, Hong Kong Univeristy of Science and Technology](http://sing.cse.ust.hk). He is under supervision of [Prof. Kai CHEN](http://www.cse.ust.hk/~kaichen/). His reseach interests are data center networking, AI systems and privacy preserving computation. He is the co-founder of [Clustar Technology Co., Ltd](https://www.clustar.ai). He is in the [TSC](https://github.com/FederatedAI/FATE-Com/blob/master/MAINTAINER.md) of federated machine learning framework: [FATE](https://github.com/FederatedAI/FATE).
 
 Before joining HKUST, he received his BSc and MSc from [Southeast Univeristy](https://www.seu.edu.cn/english/).
 
